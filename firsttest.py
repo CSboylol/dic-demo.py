@@ -12,4 +12,3 @@ def printMe(myName):
 print("Here I am after my function")
 printMe("David")
 print("End of the file ")
-print(myName)  # This will give an error because myName is not defined in the global scope
